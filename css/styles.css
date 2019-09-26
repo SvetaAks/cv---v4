@@ -1,0 +1,119 @@
+body{
+  color: #40514E;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0  auto;
+  font-family: 'Sacramento', cursive;
+  color: #dbe9b7;
+}
+h2{
+  color: #dbe9b7;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #f4dada;
+}
+a{
+  margin-right: 20px;
+  color: #f4dada;
+  font-size: 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #dbe9b7;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: #dbe9b7;
+  border-width: 6px;
+  height:0px;
+  width: 4%;
+  margin: 100px auto;
+}
+div{
+//  background-color: #b8b2a6;
+}
+
+.top-container{
+  background-color: #b8b2a6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  //background-color: #dbe9b7;
+  position: relative;
+  padding-bottom: 15px;
+  margin: 100px 0;
+}
+
+.bottom-container{
+  background-color: #b8b2a6;
+  position: relative;
+  padding-bottom: 33px;
+  padding-top: 62px;
+}
+.top-cloud{
+  position: absolute;
+  right: 584px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 538px;
+  bottom:300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skillcode-img{
+  width: 135px;
+  float:left;
+  padding-right: 30px;
+}
+.skillcode2-img{
+  width: 135px;
+}
+.skillcomp-img{
+  width: 135px;
+  float:right;
+  padding-left: 30px;
+}
+
+.bottom-name{
+  color: white;
+}
+.btn{
+  border-radius: 8px;
+  background-color:  #b8b2a6;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.my-info{
+  width: 30%;
+  margin: auto;
+}
+.contact-message{
+  width: 40%;
+  margin:40px auto 60px;
+}
